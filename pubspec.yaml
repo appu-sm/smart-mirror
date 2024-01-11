@@ -2,7 +2,7 @@ name: smart_mirror
 description: "A Mirror to see yourself"
 
 publish_to: 'none'
-version: 1.0.0+1
+version: 1.1.0+2
 
 environment:
   sdk: '>=3.2.3 <4.0.0'
@@ -10,8 +10,8 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
-  screen_brightness: ^0.2.2+1
   camera: ^0.10.5+8
+  permission_handler: ^11.1.0
 
 dev_dependencies:
   flutter_test:
