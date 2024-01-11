@@ -2,7 +2,7 @@ name: smart_mirror
 description: "A Mirror to see yourself"
 
 publish_to: 'none'
-version: 1.1.0+2
+version: 1.2.0+3
 
 environment:
   sdk: '>=3.2.3 <4.0.0'
